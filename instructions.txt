@@ -1,3 +1,6 @@
 Instructions for deploying the application
 ------------------------------------------
 And some text in here that is very instructive
+
+Troubleshooting
+---------------
